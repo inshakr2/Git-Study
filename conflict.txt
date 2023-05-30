@@ -1,0 +1,4 @@
+1
+@ -> conflict 유발
+
+2 -> conflict 유발
